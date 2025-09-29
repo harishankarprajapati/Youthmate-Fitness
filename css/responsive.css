@@ -51,23 +51,27 @@
     height: 35px;
     font-size: 20px;
   }
+
   #navbarOffcanvas {
     padding-top: 0px;
-}
-.headermenusec {
+  }
+
+  .headermenusec {
     color: #000;
-}
+  }
+
   .secjonpavg {
     z-index: 998;
     position: relative;
-}
-.secbtnmen {
+  }
+
+  .secbtnmen {
     background-color: transparent;
     text-transform: capitalize;
     padding: 0px !important;
     margin-top: 0px;
     border-radius: 10px;
-}
+  }
 }
 
 
@@ -81,8 +85,8 @@
   }
 
   .secheadp23 h2 {
-           font-size: 60px;
-        -webkit-text-stroke: 1px #f7f7f73d;
+    font-size: 60px;
+    -webkit-text-stroke: 1px #f7f7f73d;
   }
 
   .secheadp22 h2 {
@@ -264,52 +268,127 @@
   .secfacbg {
     padding: 0px 10px 50px 10px;
   }
-.secmarim .col-md-4 {
+
+  .secmarim .col-md-4 {
     padding-bottom: 30px;
-}
-.secimsgpa .col-md-6 {
+  }
+
+  .secimsgpa .col-md-6 {
     padding-bottom: 30px !important;
-}
-.secimsgpa .col-md-5 {
+  }
+
+  .secimsgpa .col-md-5 {
     padding-bottom: 30px !important;
-}
-.marquee-item {
+  }
+
+  .marquee-item {
     font-size: 23px;
-}
-.secmemhed h3 {
+  }
+
+  .secmemhed h3 {
     font-size: 45px;
- }
-.secheadp23 {
+  }
+
+  .secheadp23 {
     padding-top: 40px;
-}
-.secpadsay {
+  }
+
+  .secpadsay {
     padding-top: 20px;
-}
-.revslider {
+  }
+
+  .revslider {
     padding-top: 20px;
-}
-.secipn {
+  }
+
+  .secipn {
     font-size: 22px;
-}
-.revslider .owl-nav {
+  }
+
+  .revslider .owl-nav {
     display: none;
-}
-.owl-dots {
+  }
+
+  .owl-dots {
     display: none;
-}
-.secmobno{
-  display: none;
-}
-.secheadimgli {
+  }
+
+  .secmobno {
+    display: none;
+  }
+
+  .secheadimgli {
     text-align: center;
     margin-top: -44px;
-}
-.secfooterbg {
+  }
+
+  .secfooterbg {
     padding: 40px 10px;
-}
-.scmeli p a {
+  }
+
+  .scmeli p a {
     font-size: 30px;
- }
+  }
+
+  .heaname h2 {
+    font-size: 60px;
+    padding-top: 40px;
+  }
+
+  .marrabout {
+    padding: 0px 10px 40px 10px;
+    margin-top: -10px;
+  }
+
+  .secabbdesfl {
+    flex-direction: column-reverse;
+  }
+
+  .secabouttext {
+    padding-top: 20px;
+  }
+
+  .secvisbgg {
+    padding: 40px 10px;
+  }
+
+  .secvisintext {
+    font-size: 50px;
+  }
+
+  .serv-h-pa {
+    font-size: 30px;
+    padding-top: 20px;
+  }
+
+  .sec-revers {
+    flex-direction: column-reverse;
+  }
+
+  .aboutbg2 {
+    height: 300px;
+  }
+
+  .sec-padde-ss {
+    padding: 0px;
+    padding-bottom: 50px;
+  }
+  .blogbgg4 {
+    padding: 30px 10px;
+}
+.secmemberbg {
+    padding: 30px 30px;
+    margin-bottom: 30px;
+}
+.sec-main-div-artiv {
+    padding-bottom: 40px;
+}
+.secaetiv-h22 {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: normal;
+}
+
 }
 
 @media only screen and (max-width:430px) {}
